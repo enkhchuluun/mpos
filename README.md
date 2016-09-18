@@ -19,3 +19,7 @@ https://pouchdb.com/api.html
 
 video:
 https://vimeo.com/171317290
+
+git commit -m "first commit"
+git push -u origin master
+git remote add origin https://github.com/enkhchuluun/mpos.git
